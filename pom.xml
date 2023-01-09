@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.7.102:8081/repository/samprojrelease/</url>
+	      <url>http://52.60.79.222:8081/repository/samprojrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.7.102:8081/repository/samprojsnapshot/</url>
+	      <url>http://52.60.79.222:8081/repository/samprojsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
